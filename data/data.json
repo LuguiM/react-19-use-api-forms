@@ -2,19 +2,19 @@
   "planets": [
     {
       "id": "a1b2c3",
-      "name": "Mercurio",
+      "name": "MERCURIO",
       "type": "Planeta",
       "distanceFromSun": "57.91 millones de km"
     },
     {
       "id": "d4e5f6",
-      "name": "Venus",
+      "name": "VENUS",
       "type": "Planeta",
       "distanceFromSun": "108.2 millones de km"
     },
     {
       "id": "g7h8i9",
-      "name": "Tierra",
+      "name": "TIERRA",
       "type": "Planeta",
       "distanceFromSun": "149.6 millones de km"
     },
@@ -26,9 +26,39 @@
     },
     {
       "id": "m3n4o5",
-      "name": "Júpiter",
+      "name": "JÚPITER",
       "type": "Planeta",
       "distanceFromSun": "778.5 millones de km"
+    },
+    {
+      "id": "a923",
+      "name": "SATURNO",
+      "type": "Planeta",
+      "distanceFromSun": "800 millones de km"
+    },
+    {
+      "id": "07c9",
+      "name": "Urano",
+      "type": "planeta",
+      "distanceFromSun": "90 millones de km"
+    },
+    {
+      "id": "07c9",
+      "name": "Urano",
+      "type": "planeta",
+      "distanceFromSun": "90 millones de km"
+    },
+    {
+      "id": "63b9",
+      "name": "AS",
+      "type": "as",
+      "distanceFromSun": "dd"
+    },
+    {
+      "id": "63b9",
+      "name": "as",
+      "type": "as",
+      "distanceFromSun": "dd"
     }
   ]
 }
